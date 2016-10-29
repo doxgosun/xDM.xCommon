@@ -7,7 +7,7 @@
 using xDM.xCommon;
 
 如需要扩展，则
-using xDM.xCommon.Extensions;
+using xDM.xCommon.xExtensions;
 
  比如：
 
