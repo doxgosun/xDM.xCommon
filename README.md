@@ -2,6 +2,13 @@
 
  一个通用类库，集成了许多方便的小函数及扩展程序
 
+使用方法：引用 xDM.xCommon.dll
+
+using xDM.xCommon;
+
+如需要扩展，则
+using xDM.xCommon.Extensions;
+
  比如：
 
  var name = "你大爷";
