@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace xDM.xCommon.xExtensions
+namespace xDM.xCommon.oFiles
 {
-    public static class MyStreamExt
+    static class Extension
     {
         public static byte[] ToByteArray(this Stream sem)
         {
